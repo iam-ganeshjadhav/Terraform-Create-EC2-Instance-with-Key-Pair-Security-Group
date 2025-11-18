@@ -121,8 +121,6 @@ ssh -i webkey ec2-user@<public-ip>
 
 ## 📸 Screenshots
 
-Place images in a screenshots/ folder.
-
 **EC2 Instance Dashboard**  
 ![EC2 Dashboard](IMG/1.png)
 
